@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tab Layout</string>
+    <string name="the_first_fragment">The FIrst Fragment</string>
+    <string name="the_second_fragment">The Second Fragment</string>
+    <string name="lets_be_a_influencer">Lets Be A Influencer</string>
+    <string name="market">Market</string>
+    <string name="lets_get_this_phone_for_your_better_future">Lets Get this phone for your better future</string>
+    <string name="jombang_17_agustus_2020">Jombang, 17 Agustus 2020</string>
+    <string name="journey">Journey</string>
+    <string name="lets_go_travel_to_own_futuristic_city">Lets Go Travel To Own Futuristic City</string>
+    <string name="surabaya_11_agustus_2020">Surabaya, 11 Agustus 2020</string>
+    <string name="soldier">Soldier</string>
+    <string name="now_our_city_is_secure">Now Our City Is Secure</string>
+    <string name="bengkulu_20_agustus_2020">Bengkulu, 20 Agustus 2020</string>
+    <string name="content_text">HansoFex Official is a new company when in this company we are just a beginner in the app.we stand and move int IT buliding.and there we will make a daily surprice to user who has make our product. and this is our news product a new innovation Pixel Smartphone.</string>
+    <string name="content_specs_display">5.0 inches\nFHD display at 500dpi\n10.0 Corning Gorilla Glass</string>
+    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="content_specs_battery">5.000 mAH battery\n Standby Time (LTE): up to 19 days\n
+    Talk time (3g/WCDMA): up to 26 hours\n
+    Internet use time (Wi-Fi): up to 13 hours\n
+    Internet use time (LTE): up to 13 hours\n
+    Video playback: up to 13 hours\n
+    Audio playback (via headset): up to 110 hours\n
+    Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="_6_photos">Google Smart Phone With 3 Camera</string>
+    <string name="_735">$735</string>
+    <string name="stok_hanya_5_buah">Stok hanya 5 buah</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="display">Display</string>
+    <string name="beli">Beli</string>
+    <string name="wifqo_arova_syams">Wifqo Arova Syams</string>
+    <string name="dijual_oleh">Dijual Oleh</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="foto_hp">Foto hp</string>
+    <string name="you_will_be_success_tomorrow">You Will Be Success Tomorrow</string>
+    <string name="indonesia_17_agustus_2020">Indonesia, 17 Agustus 2020</string>
+</resources>
